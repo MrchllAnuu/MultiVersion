@@ -14,7 +14,14 @@ class ProtocolConstants {
     public const BEDROCK_1_17_30 = 465;
     public const BEDROCK_1_17_40 = 471;
     public const BEDROCK_1_18_0 = 475;
-    public const BEDROCK_1_19_20 = 527;
+    public const BEDROCK_1_19_0 = 527;
+    public const BEDROCK_1_19_10 = 530;
+    public const BEDROCK_1_19_20 = 542;
+    public const BEDROCK_1_19_50 = 560;
+    public const BEDROCK_1_19_60 = 561;
+    public const BEDROCK_1_19_62 = 567;
+    public const BEDROCK_1_19_63 = 568;
+    public const BEDROCK_1_19_70 = 575;
 
     public const MINECRAFT_VERSION = [
         self::BEDROCK_1_16_220 => "1.16.220",
