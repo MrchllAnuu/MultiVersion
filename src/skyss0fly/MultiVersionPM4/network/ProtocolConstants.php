@@ -30,7 +30,14 @@ class ProtocolConstants {
         self::BEDROCK_1_17_30 => "1.17.30",
         self::BEDROCK_1_17_40 => "1.17.40",
         self::BEDROCK_1_18_0 => "1.18.0",
-	    self::BEDROCK_1_19_20 => "1.19.20",
+        self::BEDROCK_1_19_0 => "1.19.0",
+        self::BEDROCK_1_19_10 => "1.19.10",
+        self::BEDROCK_1_19_20 => "1.19.20",
+        self::BEDROCK_1_19_50 => "1.19.50",
+        self::BEDROCK_1_19_60 => "1.19.60",
+        self::BEDROCK_1_19_62 => "1.19.62",
+        self::BEDROCK_1_19_63 => "1.19.63",
+        self::BEDROCK_1_19_70 => "1.19.70",
         ProtocolInfo::CURRENT_PROTOCOL => ProtocolInfo::MINECRAFT_VERSION_NETWORK 
     ];
 
@@ -41,7 +48,14 @@ class ProtocolConstants {
         self::BEDROCK_1_17_30,
         self::BEDROCK_1_17_40,
         self::BEDROCK_1_18_0,
+        self::BEDROCK_1_19_0,
+        self::BEDROCK_1_19_10,
         self::BEDROCK_1_19_20,
+        self::BEDROCK_1_19_50,
+        self::BEDROCK_1_19_60,
+        self::BEDROCK_1_19_62,
+        self::BEDROCK_1_19_63,
+        self::BEDROCK_1_19_70,
         ProtocolInfo::CURRENT_PROTOCOL
     ];
 }
